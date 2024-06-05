@@ -1,0 +1,16 @@
+body,
+html {
+    background: rgb(13, 2, 32);
+    color: white;
+}
+
+.flex {
+    display: flex;
+    justify-content: space-around;
+}
+
+.responce {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
